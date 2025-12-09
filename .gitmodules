@@ -1,6 +1,6 @@
-[submodule "external/examples"]
-	path = external/examples
-	url = https://github.com/bazelbuild/examples.git
-[submodule "external/FreeRTOS"]
-	path = external/FreeRTOS
+[submodule "third_party/FreeRTOS-Kernel"]
+	path = third_party/FreeRTOS
 	url = https://github.com/FreeRTOS/FreeRTOS-Kernel.git
+[submodule "third_party/bazel_examples"]
+	path = third_party/bazel_examples
+	url = https://github.com/bazelbuild/examples.git
