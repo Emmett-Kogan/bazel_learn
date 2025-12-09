@@ -3,4 +3,4 @@
 	url = https://github.com/bazelbuild/examples.git
 [submodule "external/FreeRTOS"]
 	path = external/FreeRTOS
-	url = https://github.com/FreeRTOS/FreeRTOS.git
+	url = https://github.com/FreeRTOS/FreeRTOS-Kernel.git
